@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sqlnqslndsqvfs.aternos.me",
+    "ip": "carpetshark.aternos.host",
     "port": 32794,
     "version": "1.21.1",
     "try-creative": false
